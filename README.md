@@ -28,6 +28,9 @@
 期待同样热爱学习的小伙伴一起来补充
 
 ### 其他参考资料（补充中）
+
 已有的实现 
+
 https://github.com/Jaic1/xv6-riscv-rust
+
 https://github.com/rcore-os/rCore_tutorial
