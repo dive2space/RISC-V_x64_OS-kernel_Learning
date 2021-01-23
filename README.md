@@ -34,3 +34,8 @@
 https://github.com/Jaic1/xv6-riscv-rust
 
 https://github.com/rcore-os/rCore_tutorial
+
+riscv中一些重要的寄存器
+
+https://www.cnblogs.com/mikewolf2002/p/11314583.html
+
