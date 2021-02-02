@@ -7,6 +7,8 @@
   
   Base on this-> 参考学习这个教程：https://rcore-os.github.io/rCore_tutorial_doc/
   
+  国内访问比较快的链接：https://www.bookstack.cn/read/rCore_tutorial_doc/4545d357008f7548.md
+  
   每学完一章，自己总结一下实现思路
   
   互相学习，交流心得
