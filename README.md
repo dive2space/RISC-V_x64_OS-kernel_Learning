@@ -41,3 +41,13 @@ riscv中一些重要的寄存器
 
 https://www.cnblogs.com/mikewolf2002/p/11314583.html
 
+计算机开源电子书 2020 发布 
+
+https://gitee.com/apachecn/it-ebooks-2020-part1 
+
+https://gitee.com/apachecn/it-ebooks-2020-part2 
+
+https://gitee.com/apachecn/it-ebooks-2020-part3 
+
+https://gitee.com/apachecn/it-ebooks-2020-part4
+
